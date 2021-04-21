@@ -10,7 +10,7 @@ During our careers we saw sompanies facing problems and there were very less foc
 
 Companies treat us as their sales department, by helping them to increase their current sales, and also helping their current sales team as an extension to generate more revenue. 
 
-## Testomonials
+## Servic
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -145,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2OTA0NzMzXX0=
+eyJoaXN0b3J5IjpbLTE4NDc0MDcxNDEsMzI2OTA0NzMzXX0=
 -->

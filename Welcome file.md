@@ -11,6 +11,7 @@ During our careers we saw sompanies facing problems and there were very less foc
 Companies treat us as their sales department, by helping them to increase their current sales, and also helping their current sales team as an extension to generate more revenue. 
 
 # Services
+## Services
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 # References
@@ -21,7 +22,7 @@ All your files and folders are presented as a tree in the file explorer. You can
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
-##Contact
+# Contact
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The
 
@@ -76,6 +77,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjY4MzU1MywxMDU2OTQ5Mzk0LDIxMD
+eyJoaXN0b3J5IjpbLTQwMDM1ODIxNiwxMDU2OTQ5Mzk0LDIxMD
 Y4ODQ0MjksMzI2OTA0NzMzXX0=
 -->

@@ -12,7 +12,8 @@ Companies treat us as their sales department, by helping them to increase their 
 
 # Services
 ## Services 1
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+
+ **New folder** button.
 ## Services 2
 ## Services 3
 ## Services 4
@@ -80,6 +81,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc5ODQ1NzIsLTIwNjEzNTk4NTAsMT
-A1Njk0OTM5NCwyMTA2ODg0NDI5LDMyNjkwNDczM119
+eyJoaXN0b3J5IjpbMTY0OTA1NzIwMywtMTgzNzk4NDU3MiwtMj
+A2MTM1OTg1MCwxMDU2OTQ5Mzk0LDIxMDY4ODQ0MjksMzI2OTA0
+NzMzXX0=
 -->

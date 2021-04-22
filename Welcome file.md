@@ -6,7 +6,7 @@
 # About us
 
 SalesDepartment came into life with a moto to solve the problems by introducing new and proven stratgies to shorten the sales cycle and increase profit/revenue. 
-During our careers we saw sompanies facing problems and there were very less focused solutions to that and we can with an idea if we can solve it and help individuals and companies.
+During our careers we saw some companies facing problems and there were very less focused solutions to that and we can with an idea if we can solve it and help individuals and companies.
 
 Companies treat us as their sales department, by helping them to increase their current sales, and also helping their current sales team as an extension to generate more revenue. 
 
@@ -80,6 +80,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEzNTk4NTAsMTA1Njk0OTM5NCwyMT
-A2ODg0NDI5LDMyNjkwNDczM119
+eyJoaXN0b3J5IjpbLTE4Mzc5ODQ1NzIsLTIwNjEzNTk4NTAsMT
+A1Njk0OTM5NCwyMTA2ODg0NDI5LDMyNjkwNDczM119
 -->

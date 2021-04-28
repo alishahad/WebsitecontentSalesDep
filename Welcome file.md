@@ -12,10 +12,13 @@ Companies treat us as their sales department, by helping them to increase their 
 
 # Services(Page)
 ## Dedicated Trade Forces
- **New folder** button.
+    Our people only for you. We will precisely build the right sales department. Your product, service will gain stable growth.
 ## Shared Trade Forces
 ## Sales management
-## Services 4
+## Remote Trade Forces
+## VPS Hosting
+## Body leasing
+
 
 # References
 
@@ -80,7 +83,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTgwMDk0OCw0OTg4MDM1NDUsMTY0OT
-A1NzIwMywtMTgzNzk4NDU3MiwtMjA2MTM1OTg1MCwxMDU2OTQ5
-Mzk0LDIxMDY4ODQ0MjksMzI2OTA0NzMzXX0=
+eyJoaXN0b3J5IjpbMjEzOTcxNDQsNDk4ODAzNTQ1LDE2NDkwNT
+cyMDMsLTE4Mzc5ODQ1NzIsLTIwNjEzNTk4NTAsMTA1Njk0OTM5
+NCwyMTA2ODg0NDI5LDMyNjkwNDczM119
 -->

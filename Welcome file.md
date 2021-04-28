@@ -26,11 +26,11 @@ Are you looking for investors ready to cooperate? Let us get to know you.
 
 # References
 
-Cypherdog.
+Coming Soon
 
 # Partners
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+Coming Soon
 
 # Contact
 
@@ -87,7 +87,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM5Mjg3NzYsNDk4ODAzNTQ1LDE2ND
-kwNTcyMDMsLTE4Mzc5ODQ1NzIsLTIwNjEzNTk4NTAsMTA1Njk0
-OTM5NCwyMTA2ODg0NDI5LDMyNjkwNDczM119
+eyJoaXN0b3J5IjpbLTQ2MzQ4NTc0NiwtMjEwMzkyODc3Niw0OT
+g4MDM1NDUsMTY0OTA1NzIwMywtMTgzNzk4NDU3MiwtMjA2MTM1
+OTg1MCwxMDU2OTQ5Mzk0LDIxMDY4ODQ0MjksMzI2OTA0NzMzXX
+0=
 -->

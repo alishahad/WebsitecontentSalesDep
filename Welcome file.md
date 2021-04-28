@@ -10,12 +10,11 @@ During our careers we saw some companies facing problems and there were very les
 
 Companies treat us as their sales department, by helping them to increase their current sales, and also helping their current sales team as an extension to generate more revenue. 
 
-# Services
-## Services 1
- 
+# Services(Page)
+## Dedicated Trade Forces
  **New folder** button.
-## Services 2
-## Services 3
+## Shared Trade Forces
+## Sales management
 ## Services 4
 
 # References
@@ -81,7 +80,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4ODAzNTQ1LDE2NDkwNTcyMDMsLTE4Mz
-c5ODQ1NzIsLTIwNjEzNTk4NTAsMTA1Njk0OTM5NCwyMTA2ODg0
-NDI5LDMyNjkwNDczM119
+eyJoaXN0b3J5IjpbMTQ0NTgwMDk0OCw0OTg4MDM1NDUsMTY0OT
+A1NzIwMywtMTgzNzk4NDU3MiwtMjA2MTM1OTg1MCwxMDU2OTQ5
+Mzk0LDIxMDY4ODQ0MjksMzI2OTA0NzMzXX0=
 -->

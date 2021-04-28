@@ -12,17 +12,21 @@ Companies treat us as their sales department, by helping them to increase their 
 
 # Services(Page)
 ## Dedicated Trade Forces
-    Our people only for you. We will precisely build the right sales department. Your product, service will gain stable growth.
+    You don't need a dedicated team, but want sales support? This solution is just for you.  
 ## Shared Trade Forces
+   You don't need a dedicated team, but want sales support? This solution is just for you.
 ## Sales management
+Already have a sales department? However, the effects are not satisfactory? Let us check that all the settings are correct.
 ## Remote Trade Forces
+Are you conquering a local market that is shrinking fast? Time to go out into the open. We will conquer Europe, Russia, Ukraine, India and the Persian Gulf countries for you.
 ## VPS Hosting
+Are you looking for investors ready to cooperate? Let us get to know you.
 ## Body leasing
-
+  Are you looking for people for your teams? We will find people for your IT teams.
 
 # References
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Cypherdog.
 
 # Partners
 
@@ -83,7 +87,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTcxNDQsNDk4ODAzNTQ1LDE2NDkwNT
-cyMDMsLTE4Mzc5ODQ1NzIsLTIwNjEzNTk4NTAsMTA1Njk0OTM5
-NCwyMTA2ODg0NDI5LDMyNjkwNDczM119
+eyJoaXN0b3J5IjpbLTIxMDM5Mjg3NzYsNDk4ODAzNTQ1LDE2ND
+kwNTcyMDMsLTE4Mzc5ODQ1NzIsLTIwNjEzNTk4NTAsMTA1Njk0
+OTM5NCwyMTA2ODg0NDI5LDMyNjkwNDczM119
 -->
